@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1/practicum1.csproj",
-      "projectName": "practicum1",
-      "projectPath": "/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1/practicum1.csproj",
+      "projectUniqueName": "/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/practicum1-dev2.csproj",
+      "projectName": "practicum1-dev2",
+      "projectPath": "/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/practicum1-dev2.csproj",
       "packagesPath": "/Users/yanazaulskaya/.nuget/packages/",
-      "outputPath": "/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1/obj/",
+      "outputPath": "/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yanazaulskaya/.nuget/NuGet/NuGet.Config"

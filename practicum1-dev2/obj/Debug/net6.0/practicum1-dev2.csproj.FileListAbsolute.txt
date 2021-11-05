@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/bin/Debug/net6.0/practicum1-dev2
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/bin/Debug/net6.0/practicum1-dev2.deps.json
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/bin/Debug/net6.0/practicum1-dev2.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/bin/Debug/net6.0/practicum1-dev2.dll
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/bin/Debug/net6.0/ref/practicum1-dev2.dll
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/bin/Debug/net6.0/practicum1-dev2.pdb
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.dll
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/ref/practicum1-dev2.dll
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.pdb
+/Users/yanazaulskaya/Desktop/Practicum (zoomC#)/practicum1-dev2/obj/Debug/net6.0/practicum1-dev2.genruntimeconfig.cache

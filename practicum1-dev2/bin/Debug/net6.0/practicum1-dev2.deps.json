@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "practicum1/1.0.0": {
+      "practicum1-dev2/1.0.0": {
         "runtime": {
-          "practicum1.dll": {}
+          "practicum1-dev2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "practicum1/1.0.0": {
+    "practicum1-dev2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
